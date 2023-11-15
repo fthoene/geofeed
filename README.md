@@ -19,7 +19,7 @@ The file follows the format specified in RFC 8805, with each line containing:
 - The ISO 3166-2 region code.
 - The name of the city.
 
-# Example entry:
+# Example entry
 153.92.160.0/24,DE,DE-HH,Hamburg,
 
 # Usage
